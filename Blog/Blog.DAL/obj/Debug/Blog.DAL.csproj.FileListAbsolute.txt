@@ -1,0 +1,16 @@
+D:\Sebastian\Blog\Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+D:\Sebastian\Blog\Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+D:\Sebastian\Blog\Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+D:\Sebastian\Blog\Blog\Blog.DAL\bin\Debug\System.Data.SQLite.dll
+D:\Sebastian\Blog\Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+D:\Sebastian\Blog\Blog\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+D:\Sebastian\Blog\Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+D:\Sebastian\Blog\Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb
+D:\Projekty\C#\TeamCityTest\Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+D:\Projekty\C#\TeamCityTest\Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+D:\Projekty\C#\TeamCityTest\Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+D:\Projekty\C#\TeamCityTest\Blog\Blog.DAL\bin\Debug\System.Data.SQLite.dll
+D:\Projekty\C#\TeamCityTest\Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+D:\Projekty\C#\TeamCityTest\Blog\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+D:\Projekty\C#\TeamCityTest\Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+D:\Projekty\C#\TeamCityTest\Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb
